@@ -1,0 +1,14 @@
+# Google API credentials and tokens
+client_secrets.json
+*.pickle
+processed_subscriptions.log
+subscriptions.csv
+
+# Python environment and cache
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS files
+.DS_Store
